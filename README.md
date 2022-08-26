@@ -1,6 +1,4 @@
-<p align= center> 
-    [![IMAGE_ALT](https://i.imgur.com/0S1nXe6.png)](www.github.com/HarryWakazaki)
-</p>
+[![IMAGE_ALT](https://i.imgur.com/0S1nXe6.png)](www.github.com/HarryWakazaki)
 
 <h2>
 
